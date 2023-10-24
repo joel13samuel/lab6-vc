@@ -1,3 +1,5 @@
+#Joel Samuel
+#10/24
 def encode(password):
     new = ""
     for i in password:
